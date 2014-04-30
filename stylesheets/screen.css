@@ -1,11 +1,11 @@
 /*
 Syntax error: Undefined variable: "$img-border".
         on line 9 of /Users/Qun/octopress02/sass/custom/_styles.scss
-        from line 12 of /Users/Qun/octopress02/sass/screen.scss
+        from line 9 of /Users/Qun/octopress02/sass/screen.scss
 
 Backtrace:
 /Users/Qun/octopress02/sass/custom/_styles.scss:9
-/Users/Qun/octopress02/sass/screen.scss:12
+/Users/Qun/octopress02/sass/screen.scss:9
 /Library/Ruby/Gems/2.0.0/gems/sass-3.2.9/lib/sass/script/variable.rb:49:in `_perform'
 /Library/Ruby/Gems/2.0.0/gems/sass-3.2.9/lib/sass/script/node.rb:40:in `perform'
 /Library/Ruby/Gems/2.0.0/gems/sass-3.2.9/lib/sass/script/list.rb:70:in `block in _perform'
@@ -79,4 +79,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined variable: \"$img-border\".\A         on line 9 of /Users/Qun/octopress02/sass/custom/_styles.scss\A         from line 12 of /Users/Qun/octopress02/sass/screen.scss"; }
+  content: "Syntax error: Undefined variable: \"$img-border\".\A         on line 9 of /Users/Qun/octopress02/sass/custom/_styles.scss\A         from line 9 of /Users/Qun/octopress02/sass/screen.scss"; }
